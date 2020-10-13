@@ -1,4 +1,5 @@
 ## Paint_App
 
-![WhatsApp_Image_2020-10-13_at_08 38 07_1_75](https://user-images.githubusercontent.com/72328725/95810921-bbc7f580-0d2f-11eb-87b8-a30b0cb79448.jpeg) !
+
+![whatsapp-image-2020-10-13-at-0](https://user-images.githubusercontent.com/72328725/95811230-71934400-0d30-11eb-906e-bbb5efc27802.jpg)
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/72328725/95811058-13666100-0d30-11eb-9212-868c7e780c50.jpg)
